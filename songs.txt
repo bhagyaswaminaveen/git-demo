@@ -5,4 +5,10 @@ as usual..
 
 when are you planning of your vacation.?
 
+<<<<<<< HEAD
 in August we are going to Paris.
+=======
+in August we are going to Paris.
+
+next commit
+>>>>>>> b887b414fc13f27e07a4068bc98743bccace1fc1
